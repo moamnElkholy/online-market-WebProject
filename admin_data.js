@@ -1,22 +1,22 @@
 var Admins = [
     {
-        regnum:"nagy@aast.edu",
-        name: "nagy",
+        regnum:"ahmed@aast.edu",
+        name: "ahmed",
         pass: "loveu"
     },
     {
-        regnum:"haroun@aast.edu",
-        name: "haroon",
+        regnum:"wanas@aast.edu",
+        name: "wanas",
         pass: "loveu"
     },
     {
-        regnum:"dr.omar@aast.edu",
-        name: "Omar",
+        regnum:"sami@aast.edu",
+        name: "sami",
         pass: "loveu"
     },
     {
-        regnum:"desha",
-        name: "Mostafa",
+        regnum:"waleed eid",
+        name: "waleed",
         pass: "loveu"
     }
 
