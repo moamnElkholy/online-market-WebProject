@@ -22,7 +22,7 @@ var students = [
     },
     {
         regnum: "20200222",
-        name:"george",
+        name:"sami",
         pass: "200200",
         colege: "Engineering",
         gpa: 2.3
