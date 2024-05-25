@@ -1,7 +1,7 @@
 var students = [
     {
         regnum:"20200420",
-        name:"mostafa",
+        name:"walid",
         pass: "200200",
         gpa: 3.98,
         colege: "AI"
